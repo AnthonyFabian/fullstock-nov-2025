@@ -1,0 +1,22 @@
+.container {
+    background-image: url("../images/mountains.jpg");
+    /* background-image: linear-gradient(rgb(253, 229, 229),rgb(173, 173, 241)), url("../images/mountains.jpg"); */
+    background-size: cover;
+    /* background-size: contain; */
+    background-repeat: no-repeat;
+    background-position: center;
+
+    width: 700px;
+    height: 600px;
+
+    /* background-image: url("../images/mountains.jpg"); */
+    /* background-color: rgb(2, 2, 2); */
+
+    /* background-blend-mode: multiply; */
+
+    /* background: linear-gradient(rgb(253, 229, 229),rgb(173, 173, 241)), url("../images/mountains.jpg") center / cover no-repeat; */
+}
+
+.title {
+    /* background-color: aqua; */
+}
